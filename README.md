@@ -27,7 +27,7 @@ This line can't be in front of ---,it needs a blank line.---
 
 ## Text block
 ### grammar1
-在连续几行的文本开头加入1个Tab或者4个空格。
+在连续几行的文本开头加入1个Tab或者4个空格，在文本块开始前必须空一行，否则正常显示。
 
     Consider the following scenario: A machine that a company is manufacturing contains a component that will expire from the vendor's catalog in two months. From the expiration date onward, the vendor will offer a new component that can be 
     Hello.
@@ -38,7 +38,7 @@ This line can't be in front of ---,it needs a blank line.---
 
 
 ### grammer2
-使用一对各三个的反引号：
+使用一对各三个的反引号：```  ```
 ```
 Hello.
 I'm fine.
