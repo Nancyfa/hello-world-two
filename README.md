@@ -4,7 +4,7 @@
   - [Text](#text)
       - [Text block](#text-block)
       - [高亮](#高亮)
-      - [斜体，粗体](#italic-and-bold)
+      - [斜体，粗体](#italic and bold)
 - [**Module** Configure Dynamics 365 Supply Chain Management, Manufacturing](#module-configure-dynamics-365-supply-chain-management-manufacturing)  
 - [**Lesson**](#lesson)  
   - [**Unit** Introduction](#unit-introduction)
