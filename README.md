@@ -1,7 +1,7 @@
 # Contents  
 - [hello-world-two](#hello-world-two)  
 - [Module Configure Dynamics 365 Supply Chain Management, Manufacturing](#**module**-configure-dynamics-365-supply-chain-management,manufacturing)  
-- [Lesson Configure and manage the Production control module](#**Lesson**-Configure-and-manage-the-Production-control-module)  
+- [Lesson](#**Lesson**)  
 
 
 
@@ -21,7 +21,7 @@ In this module, you will learn about the following features:
 -   Production pools
 -   How to work with allocation key
 
-## **Lesson** Configure and manage the Production control module
+## **Lesson** 
 
 ### **Unit** Introduction
 This image shows the difference between discrete, lean and process manufacturing.
