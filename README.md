@@ -22,6 +22,10 @@ It's also a line.***
 This line can't be in front of ---,it needs a blank line.---
 
 ---
+换行可以在前面一个语句最后面加两个空格，也可以加一个空行。  
+比如这样，前者正常间距。
+
+后者是段落间距，比较大。
 
 [回到顶部](#readme)
 
