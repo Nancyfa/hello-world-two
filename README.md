@@ -18,3 +18,5 @@ In this module, you will learn about the following features:
 -   How to work with allocation key
 
 This image shows the difference between discrete, lean and process manufacturing.
+
+[Clicking it](main\readme.md) will open readme.md.
