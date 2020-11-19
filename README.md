@@ -14,9 +14,10 @@ This is a line.
 ___  
 It's also a line.  
 ***
-________
+This line can't be in front of ---.
+
 ---
-hhh
+
 
 
 
