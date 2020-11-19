@@ -14,7 +14,7 @@ This is a line.
 ___  
 It's also a line.  
 ***
-This line can't be in front of ---.
+This line can't be in front of ---,it needs a blank line.
 
 ---
 
