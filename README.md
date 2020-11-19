@@ -1,6 +1,6 @@
 # Contents  
 - [hello-world-two](#hello-world-two)  
-- [Module Configure Dynamics 365 Supply Chain Management, Manufacturing](#**module**-configure-dynamics-365-supply-chain-management,manufacturing)  
+- [Module Configure Dynamics 365 Supply Chain Management, Manufacturing](#module-configure-dynamics-365-supply-chain-management,manufacturing)  
 - [Lesson](#lesson)  
 
 
