@@ -8,10 +8,14 @@
 
 
 # hello-world-two
-second attempt
-This is the first change.
+second attempt  
+This is the first change.  
 This is a line.
 ___
+It's also a line.
+***
+It's still a line.
+---
 
 # **Module** Configure Dynamics 365 Supply Chain Management, Manufacturing
 
