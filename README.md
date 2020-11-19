@@ -19,4 +19,4 @@ In this module, you will learn about the following features:
 
 This image shows the difference between discrete, lean and process manufacturing.
 
-[Clicking it](main\readme.md) will open readme.md.
+[Clicking it](main/readme.md) will open readme.md.
