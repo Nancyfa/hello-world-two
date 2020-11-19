@@ -3,6 +3,8 @@
   - [Line](#line)
   - [Text](#text)
       - [Text block](#text-block)
+      - [高亮](#高亮)
+      - [斜体，粗体](#斜体-粗体)
 - [**Module** Configure Dynamics 365 Supply Chain Management, Manufacturing](#module-configure-dynamics-365-supply-chain-management-manufacturing)  
 - [**Lesson**](#lesson)  
   - [**Unit** Introduction](#unit-introduction)
@@ -55,9 +57,10 @@ Thank you.
 
 ### 斜体，粗体
 *我斜了*，_我也斜了_  
-**I'm bold**,__me too__
-~~我无了~·
-*哈哈
+**I'm bold**,__me too__  
+~~我无了~~
+*~~还可以这样~~*，**~~也可以这样哦~~**
+
 
 [回到顶部](#readme)
 
