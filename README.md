@@ -41,7 +41,7 @@ This line can't be in front of ---,it needs a blank line.---
 使用一对各三个的反引号：\```This is the content.\```
 ```
 Hello.
-I'm fine.
+I'm `fine`.
 Thank you.
 ```
 能不能`高亮`啊！
