@@ -1,5 +1,7 @@
 # Contents  
 - [hello-world-two](#hello-world-two)  
+  - [Line](#line)
+  - [Text block](#text block)
 - [**Module** Configure Dynamics 365 Supply Chain Management, Manufacturing](#module-configure-dynamics-365-supply-chain-management-manufacturing)  
 - [**Lesson**](#lesson)  
   - [**Unit** Introduction](#unit-introduction)
@@ -11,15 +13,29 @@
 second attempt  
 This is the first change.  
 
+## Line
+
 This is a line.___
 ___  
 It's also a line.***
 ***
-This line can't be in front of ---,it needs a blank line.
+This line can't be in front of ---,it needs a blank line.---
 
 ---
 
-
+## Text block
+### grammar1
+在连续几行的文本开头加入1个Tab或者4个空格。
+    欢迎到访
+    很高兴见到您
+    祝您，早上好，中午好，下午好，晚安
+### grammer2
+使用一对各三个的反引号：
+```
+Hello.
+I'm fine.
+Thank you.
+```
 
 
 # **Module** Configure Dynamics 365 Supply Chain Management, Manufacturing
