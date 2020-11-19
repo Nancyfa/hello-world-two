@@ -55,7 +55,7 @@ Thank you.
 ### 高亮
 `高亮`文字块里不能用诶。
 
-<h3 id="1">italic and bold</h3>
+<h3 id="1">斜体，粗体</h3>
 
 *我斜了*，_我也斜了_  
 **I'm bold**,__me too__  
