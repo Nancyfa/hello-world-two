@@ -28,13 +28,11 @@ This line can't be in front of ---,it needs a blank line.---
 ## Text block
 ### grammar1
 在连续几行的文本开头加入1个Tab或者4个空格。
--	**Substituting material by date**
-    
     Consider the following scenario: A machine that a company is manufacturing contains a component that will expire from the vendor's catalog in two months. From the expiration date onward, the vendor will offer a new component that can be 
-  Hello.
-  How are you?
-  I'm fine.
-  Thank you.
+    Hello.
+    How are you?
+    I'm fine.
+    Thank you.
 
 
 
