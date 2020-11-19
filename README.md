@@ -32,7 +32,7 @@ This line can't be in front of ---,it needs a blank line.---
     Consider the following scenario: A machine that a company is manufacturing contains a component that will expire from the vendor's catalog in two months. From the expiration date onward, the vendor will offer a new component that can be 
     Hello.
     How are you?
-    I'm `fine`.
+    I'm fine.
     Thank you.
 
 
@@ -44,7 +44,8 @@ Hello.
 I'm fine.
 Thank you.
 ```
-能不能`高亮`啊！
+`高亮`文字块里不能用诶。
+
 [回到顶部](#readme)
 
 # **Module** Configure Dynamics 365 Supply Chain Management, Manufacturing
