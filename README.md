@@ -64,7 +64,7 @@ Thank you.
 *~~还可以这样~~*，**~~也可以这样哦~~**
 
 ## 图片链接
-![mypicture](picture/1.jpg)
+![mypicture](https://github.com/Nancyfa/hello-world-two/blob/main/picture/photo.jpg)
 
 
 [回到顶部](#readme)
